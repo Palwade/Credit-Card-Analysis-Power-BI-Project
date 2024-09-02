@@ -9,7 +9,7 @@ The project aimed to analyze credit card usage patterns, transaction behaviors, 
 
 
 **Data Import and Cleaning:** 
-Imported data from various sources and cleaned it to remove duplicates and inconsistencies.
+Imported data from Kaggel and cleaned it to remove duplicates and inconsistencies.
 
 **Data Modeling**: 
 Created relationships between tables to form a coherent data model for analysis.
