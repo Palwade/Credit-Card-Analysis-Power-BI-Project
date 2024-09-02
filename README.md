@@ -8,9 +8,14 @@ Objective:
 The project aimed to analyze credit card usage patterns, transaction behaviors, and customer demographics to gain insights into customer spending habits and identify potential areas of improvement for the bank.
 
 
-Data Import and Cleaning: Imported data from various sources and cleaned it to remove duplicates and inconsistencies.
-Data Modeling: Created relationships between tables to form a coherent data model for analysis.
-Visualization: Developed interactive dashboards showcasing key metrics such as total transactions, average spending, customer segmentation, and fraud detection patterns.
+Data Import and Cleaning: 
+Imported data from various sources and cleaned it to remove duplicates and inconsistencies.
+
+Data Modeling: 
+Created relationships between tables to form a coherent data model for analysis.
+
+Visualization: 
+Developed interactive dashboards showcasing key metrics such as total transactions, average spending, customer segmentation, and fraud detection patterns.
 
 Insights: 
 
